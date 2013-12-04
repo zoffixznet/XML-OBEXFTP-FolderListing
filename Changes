@@ -1,0 +1,9 @@
+Revision history for XML-OBEXFTP-FolderListing
+
+0.002   Mar 3, 2008
+        Fixed a bug when ->folders() and ->files() would give
+            incorrect info when only one file or folder is present.
+
+0.001   Mar 2, 2008
+        First version, released on an unsuspecting world.
+
